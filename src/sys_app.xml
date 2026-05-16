@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-05-16 00:00:00">
+  <sys_app action="INSERT_OR_UPDATE">
+    <active>true</active>
+    <can_edit_in_studio>true</can_edit_in_studio>
+    <enforce_license>log</enforce_license>
+    <js_level>helsinki_es5</js_level>
+    <licensable>true</licensable>
+    <license></license>
+    <name>Australia Deprecation Impact Scanner</name>
+    <private>false</private>
+    <scope>x_adis</scope>
+    <short_description>Scans instance for deprecated APIs, tables, and properties when upgrading Zurich to Australia</short_description>
+    <source>x_adis</source>
+    <store_correlation_id></store_correlation_id>
+    <store_url></store_url>
+    <sys_class_name>sys_app</sys_class_name>
+    <sys_code></sys_code>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2026-05-16 00:00:00</sys_created_on>
+    <sys_id>ad1s0austral1adeprecat10nscanner</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2026-05-16 00:00:00</sys_updated_on>
+    <template></template>
+    <trackable>true</trackable>
+    <user_role display_value="x_adis.admin" name="x_adis.admin">role_admin_placeholder</user_role>
+    <vendor></vendor>
+    <vendor_prefix></vendor_prefix>
+    <version>1.0.0</version>
+  </sys_app>
+  <sys_scope action="INSERT_OR_UPDATE">
+    <active>true</active>
+    <app Can edit in Studio="true"/>
+    <assessment></assessment>
+    <description></description>
+    <name>Australia Deprecation Impact Scanner</name>
+    <original_name>Australia Deprecation Impact Scanner</original_name>
+    <parent/>
+    <scope>x_adis</scope>
+    <sys_class_name>sys_scope</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2026-05-16 00:00:00</sys_created_on>
+    <sys_id>ad1s0austral1adeprecat10nscanner</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2026-05-16 00:00:00</sys_updated_on>
+    <template/>
+    <vendor/>
+    <vendor_prefix/>
+  </sys_scope>
+</unload>
