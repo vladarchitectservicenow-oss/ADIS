@@ -2,7 +2,7 @@
 ## Instance: dev362840.service-now.com
 
 **Date:** 2026-05-16  
-**Tester:** Chief Product & Engineering AI
+**Tester:** ServiceNow Solution Architect Vladimir Kapustin
 
 ### Result: BLOCKED — Instance Hibernating
 

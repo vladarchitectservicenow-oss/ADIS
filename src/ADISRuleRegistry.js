@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2026 Vlady
+ * Copyright (c) 2026 Vladimir Kapustin
  * SPDX-License-Identifier: AGPL-3.0-only
  *
  * ADISRuleRegistry — Seeded deprecation rules for Zurich to Australia.

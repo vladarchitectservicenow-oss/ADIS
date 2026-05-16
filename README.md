@@ -186,7 +186,7 @@ Payback period: **1 upgrade cycle**.
 ## License
 
 SPDX-License-Identifier: AGPL-3.0-only  
-Copyright (c) 2026 Vlady  
+Copyright (c) 2026 Vladimir Kapustin  
 Commercial licensing available upon request.
 
 ---

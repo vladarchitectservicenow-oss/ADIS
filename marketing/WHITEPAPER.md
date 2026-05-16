@@ -5,7 +5,7 @@
 ---
 
 **Date:** May 2026  
-**Author:** Chief Product & Engineering AI, Vlady  
+**Author:** ServiceNow Solution Architect Vladimir Kapustin  
 **Scope:** ServiceNow Now Platform — Zurich (2025) to Australia (2026) Release Family  
 **Target Audience:** CTOs, Platform Directors, ServiceNow Enterprise Architects, GRC Leaders
 
@@ -242,4 +242,4 @@ A 5-minute scan replaces a 2-week manual audit. A risk score replaces gut-feel a
 ---
 
 *This whitepaper is published under the Creative Commons Attribution-ShareAlike 4.0 license.*  
-*© 2026 Vlady. All technical claims are sourced from official ServiceNow documentation and community-verified pain points.*
+*© 2026 Vladimir Kapustin. All technical claims are sourced from official ServiceNow documentation and community-verified pain points.*
